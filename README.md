@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there! I am Janell Williams 👋
+
+I'm a software engineer who is passionate about building innovative solutions to real-world problems. As a lifelong learner, I constantly strive to stay up-to-date with the latest technologies and implement them meaningfully. I thrive on challenging projects that push me to think creatively and outside the box.
+
+
+
+
 
 <!--
 **JanellWilliams555/JanellWilliams555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

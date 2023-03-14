@@ -3,6 +3,7 @@
 I'm a software engineer who is passionate about building innovative solutions to real-world problems. As a lifelong learner, I constantly strive to stay up-to-date with the latest technologies and implement them meaningfully. I thrive on challenging projects that push me to think creatively and outside the box.
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=JanellWilliams555&show_icons=true&count_private=true)
+#
 
 ### Languages and Tools
 
@@ -20,8 +21,18 @@ I'm a software engineer who is passionate about building innovative solutions to
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" />
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px; border: none;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
+
+#
+#
+
+<div align="center">
+  <h2>Connect with me on LinkedIn</h2>
+  <a href="https://www.linkedin.com/in/janellwilliams555/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
+</div>
 
 
 <!--
